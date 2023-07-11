@@ -1,2 +1,5 @@
 com\mycompany\wsprimerlive\WSStartApp.class
+com\mycompany\wsprimerlive\WSConfigurator.class
+com\mycompany\wsprimerlive\TimerEndpoint.class
 com\mycompany\wsprimerlive\WebController.class
+com\mycompany\wsprimerlive\TimedMessageBroker.class
